@@ -1,5 +1,5 @@
 # Capstone
-Capstone project - MIDS program
+Capstone project - Predicting Attrition in the Federal Workplace
 
 ## Data 
 
@@ -20,7 +20,7 @@ Steps followed:
 2. Loaded files into google S3 bucket.
 3. Create database w210 - FedWork in BigQuery 
 3. Transform data and load it into BigQuery using queries through the BigQuery UI
-4. Create final dataset status_dynamic_v3
+4. Create final dataset
 
 ## Modeling
 Code related to the feature selection and modeling can be found in Capstone/Modeling/
